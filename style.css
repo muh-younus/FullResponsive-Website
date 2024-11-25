@@ -86,6 +86,8 @@ li{
 
 .bg-main{
 
+    max-height: 100vh;
+
     height: 89vh;
 }
 
