@@ -154,3 +154,8 @@ li{
 
     
 }
+
+.card-box:hover{
+
+    box-shadow: rgba(150,150,150,0.5) 0 10px 14px;
+}
