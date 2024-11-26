@@ -159,3 +159,47 @@ li{
 
     box-shadow: rgba(150,150,150,0.5) 0 10px 14px;
 }
+
+
+/* Digital-product showcase */
+.backcolor{
+
+    background-color: var(--bs-dark-color);
+}
+
+.para3{
+
+    font-size: 14px;
+    line-height: 1.2rem;
+}
+
+.line{
+
+    position: absolute;
+    left:42%;
+    top: 18%;
+    width: 16%
+    
+}
+
+.main1 .image2 img{ 
+
+    max-height: 90%;
+
+    
+    height: 100%;
+    width: 60%;
+
+}
+
+.head-size{
+
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.head-para{
+
+    font-size: 15px;
+    line-height: 18px;
+}
