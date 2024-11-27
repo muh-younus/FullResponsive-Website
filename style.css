@@ -203,3 +203,10 @@ li{
     font-size: 15px;
     line-height: 18px;
 }
+
+/* online-section */
+
+.online-section{
+
+    background-color: var(--bs-dark-color);
+}
