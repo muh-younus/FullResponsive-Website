@@ -210,3 +210,59 @@ li{
 
     background-color: var(--bs-dark-color);
 }
+
+.card1{
+
+    background-color: #262631;
+    color: var(--bs-main-color);
+    transition: all 0.3s linear;
+
+}
+
+ .card1 p{
+
+    color: var(--bs-main-color)
+}
+
+.card1:hover{
+
+    background: var(--bs-main-color);
+    color: var(--bs-dark-primary)!important;
+}
+
+.card1:hover p{
+
+    color: var(--bs-dark-color)
+}
+
+.fa-star{
+
+    color: var(--bs-supporting-color)
+}
+
+.carousel-indicators{
+
+    bottom: -11%;
+}
+
+.carousel-indicators [data-bs-target] {
+
+background-color: var(--bs-supporting-color);
+height: 6px;
+width: 15px;
+}
+
+/* Our-Expert */
+
+.hr-line{
+
+    position: absolute;
+    width: 17%;
+    left: 40%;
+   
+}
+
+.text-grey{
+
+    color: var(--bs-primary-color)
+}
