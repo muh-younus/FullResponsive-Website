@@ -266,3 +266,46 @@ width: 15px;
 
     color: var(--bs-primary-color)
 }
+
+/* contact-section */
+
+.contact-section{
+
+    background-color: var(--bs-dark-color);
+    position: relative;
+}
+
+
+
+.custom-shape-divider-top-1732822567 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-top-1732822567 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 75px;
+    transform: rotateY(180deg);
+}
+
+.custom-shape-divider-top-1732822567 .shape-fill {
+    fill: #FFFFFF;
+}
+
+.form-section input{
+
+    width: 100%;
+}
+
+/* footer-section */
+
+.footer-section{
+
+    background-color: var(--bs-dark-color);
+}
